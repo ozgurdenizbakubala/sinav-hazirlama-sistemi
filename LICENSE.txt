@@ -1,0 +1,42 @@
+SINAV HAZIRLAMA SISTEMI - KULLANIM SOZLESMESI
+==============================================
+
+KURULUMA DEVAM ETMEDEN ONCE BU SOZLESMEYI OKUYUNUZ.
+ILERI DUGMESINE TIKLAYARAK BU KOSULLARI KABUL ETMIS OLURSUNUZ.
+
+----------------------------------------------------------------
+IZIN VERILENLER
+----------------------------------------------------------------
+* Egitim kurumlarinda ucretsiz kullanabilirsiniz.
+* Kaynak kodunu inceleyebilir ve gelistirebilirsiniz.
+* Degistirerek veya degistirmeden ucretsiz dagitabilirsiniz.
+* Atif vererek kendi projelerinizde kullanabilirsiniz.
+
+----------------------------------------------------------------
+!! TICARI KULLANIM KESINLIKLE YASAKTIR !!
+----------------------------------------------------------------
+
+Bu yazilim ve turevleri hicbir sekilde ticari amacla
+kullanilamaz. Asagidakiler YASAKTIR:
+
+  - Satis yapmak
+  - Ucret karsiligi dagitmak
+  - Odeme gerektiren bir urun/hizmete entegre etmek
+  - Herhangi bir sekilde gelir elde etmek icin kullanmak
+  - Ticari bir sirketin ic sistemlerinde kullanmak
+
+Bu yasaga uymayan kullanim hukuka aykiridir ve
+yasal islem baslatilmasina neden olabilir.
+
+----------------------------------------------------------------
+SORUMLULUK REDDI
+----------------------------------------------------------------
+Bu yazilim "oldugu gibi" sunulmaktadir. Yazilimdan
+kaynaklanabilecek veri kaybi veya zararlardan gelistirici
+sorumlu tutulamaz.
+
+----------------------------------------------------------------
+Lisans: Creative Commons BY-NC 4.0
+Iletisim: denizbakubala@gmail.com
+(c) 2026 - Tum haklari saklidir.
+----------------------------------------------------------------
